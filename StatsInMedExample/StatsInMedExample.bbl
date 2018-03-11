@@ -1,0 +1,29 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem{R1}
+Kopka H, Daly P. \emph{A Guide to LaTeX, (4th edn)}. Addison-Wesley, 2003.
+
+\bibitem{R2}
+Lamport L. \emph{LaTeX: a Document Preparation System (2nd edn)}.
+  Addison-Wesley, 1994.
+
+\bibitem{R3}
+Mittelbach F, Goossens M. \emph{The LaTeX Companion, (2nd edn)}.
+  Addison-Wesley, 2004.
+
+\bibitem{pepe2003statistical}
+Pepe MS. \emph{The statistical evaluation of medical tests for classification
+  and prediction}. Oxford University Press, 2003.
+
+\bibitem{zou2005regularization}
+Zou H, Hastie T. Regularization and variable selection via the elastic net.
+  \emph{Journal of the Royal Statistical Society: Series B (Statistical
+  Methodology)}  2005; \textbf{67}(2):301--320.
+
+\end{thebibliography}
